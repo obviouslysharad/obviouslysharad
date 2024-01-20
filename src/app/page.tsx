@@ -32,7 +32,7 @@ export default function Home() {
           borderRadius: 8,
         }}
       >
-        Hi, I'm Sharad Agarwal. A passionate Software Developer based in India
+        Hi, I&apos;m Sharad Agarwal. A passionate Software Developer based in India
       </div>
     </div>
   );
